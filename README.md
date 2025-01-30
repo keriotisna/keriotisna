@@ -1,4 +1,9 @@
-## Hi there 👋
+# About Me
+---
+
+I'm a recent graduate of UIUC's MCS Master's program of Computer Science with a keen interest in software development with a focus in data-heavy fields like machine learning, data science, and database systems. Throughout my education, I've gained a variety of skills and experiences that bolstered my software development, leadership, and presentation skills that let me tackle the toughest challenges. 
+
+If you're curious about some of the things I've done, check out my [Projects Showcase](https://github.com/keriotisna/Project-Showcase)!
 
 <!--
 **keriotisna/keriotisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
